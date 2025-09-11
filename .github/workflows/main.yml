@@ -61,4 +61,4 @@ jobs:
         with:
           context: ./backend/
           push: true
-          tags: nextias/taski_backend:latest
+          tags: Nextias/taski_backend:latest
